@@ -1,2 +1,2 @@
 # python100dayscode
-python coding
+will be update soon.
