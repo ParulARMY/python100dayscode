@@ -5,7 +5,7 @@ These are the resulting files of the daily challenges.[100 Days of code - The co
 Master Python by building 100 projects in 100 days.
 Learn to build websites , games , apps ,plus scraping and data science.
 
-###** Description of Course From Udemy **
+**Description of Course From Udemy**
 
 Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the only course you need to learn to learn to code with python. With over 100,000 ⭐️⭐️⭐️⭐️⭐️ reviews and a 4.8 average my courses are some of the 
 <b>high rated </b>courses in the history of Udemy! 100 days  1 hour per day, learn to build 1 project per day, this is how you master Python. At 56+ hours, this python course is without a doubt the most comprehensive Python course available anything online. Even if you have zero programming experience, this course will take you from beginner to professional.
