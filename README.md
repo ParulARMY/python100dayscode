@@ -14,3 +14,14 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 
 *100- Days-of-code-In-Python*
 ##### Udemy Angela yu's course that has 100 projects for students to make each day with classes with duration of 1-2 hours per day.<br>
+##### Ths repository will contain all the related projects.If you are intrested in any code files, please run the code in an IDE for python.<hr>
+
+<b> Day 1</b>
+#### Exercise 01:[Printingto the console]
+#### Exercise 02:[Debugging]
+#### Exercise 03:[Inputs]
+#### Exercise 04:[variables]
+#### Project 01:[Band Name Generator] : A band name generator from the inputs of users of their country and a random pet name.
+1. Used the print function, input function , and creating a variable.
+2. Learned about commenting.
+3. Learned that '\n' brings the cursor/content to next line in the same print function.
