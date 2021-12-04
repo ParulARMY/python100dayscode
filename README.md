@@ -25,3 +25,12 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 1. Used the print function, input function , and creating a variable.
 2. Learned about commenting.
 3. Learned that '\n' brings the cursor/content to next line in the same print function.
+<b>Day 2</b>:[`Direct Link`]<br>
+#### Exercise 01:[SubScript]
+#### Exercise 02:[BMI calculator]
+#### Exercise 03:[f-string]
+#### Project 02:[Tip Calulator] : Created a simple calculator that takes input of the total bill, percentage of the amount of people to split the bill.
+1. Applied the `f` string.(found it really convenient)
+2. Reminded me that inputs are in string data type and has to be converted into float/integers before doing any calculations.
+3. Reminded me how to round off with a specified decimal number `rounding_off = Round(2.666666,2)`=`2.66`
+
