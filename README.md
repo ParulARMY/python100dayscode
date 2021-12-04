@@ -25,7 +25,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 1. Used the print function, input function , and creating a variable.
 2. Learned about commenting.
 3. Learned that '\n' brings the cursor/content to next line in the same print function.
-<b>Day 2</b>:[`Direct Link`]<br>
+<b>Day 2</b>:
 #### Exercise 01:[SubScript]
 #### Exercise 02:[BMI calculator]
 #### Exercise 03:[f-string]
@@ -33,7 +33,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 1. Applied the `f` string.(found it really convenient)
 2. Reminded me that inputs are in string data type and has to be converted into float/integers before doing any calculations.
 3. Reminded me how to round off with a specified decimal number `rounding_off = Round(2.666666,2)`=`2.66`
-<b>Day 3</b>:[`Direct Link`]<br>
+<b>Day 3</b>:
 #### Exercise 01:[Rollercoaster- ride]
 #### Exercise 02:[BMI calculator2.0]
 #### Exercise 03:[Leap year]
@@ -42,7 +42,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 1. Applied ASCII Art (figures made by numbers and symbols)via: https://ascii.co.uk/art
 2. Learned if/elif/else statements & nested if/elif/else & multiple ifs.
 3. Reminded me that indentaion is important in python.
-<b>Day 4</b>:[`Direct Link`]<br>
+<b>Day 4</b>:
 #### Exercise 01:[Random NUmber]
 #### Exercise 02:[Heads & Tails]
 #### Exercise 03:[Banker Roulette]
