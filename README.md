@@ -24,7 +24,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 #### Project 01:[Band Name Generator] : A band name generator from the inputs of users of their country and a random pet name.
 1. Used the print function, input function , and creating a variable.
 2. Learned about commenting.
-3. Learned that '\n' brings the cursor/content to next line in the same print function.
+3. Learned that '\n' brings the cursor/content to next line in the same print function.<br>
 <b>Day 2</b>:[`Direct Link`]<br>
 #### Exercise 01:[SubScript]
 #### Exercise 02:[BMI calculator]
