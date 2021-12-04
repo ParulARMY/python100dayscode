@@ -47,8 +47,9 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 2. Learned if/elif/else statements & nested if/elif/else & multiple ifs.
 3. Reminded me that indentaion is important in python.
 <hr>
+
 <b>Day 4</b>:[`Direct Link`]<br>
-#### Exercise 01:[Random NUmber]
+#### Exercise 01:[Random Number]
 #### Exercise 02:[Heads & Tails]
 #### Exercise 03:[Banker Roulette]
 #### Exercise 04:[Treasure map]
