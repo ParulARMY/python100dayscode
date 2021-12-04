@@ -16,7 +16,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 ##### Udemy Angela yu's course that has 100 projects for students to make each day with classes with duration of 1-2 hours per day.<br>
 ##### The repository will contain all the related projects.If you are intrested in any code files, please run the code in an IDE for python.<hr>
 
-<b> Day 1</b>
+<b>Day 1</b>:['Direct Link'](https://github.com/ParulARMY/python100dayscode/tree/main/Day-1)
 #### Exercise 01: Printing to the console
 #### Exercise 02: Debugging
 #### Exercise 03: Inputs
