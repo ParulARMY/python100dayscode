@@ -35,4 +35,28 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 1. Applied the `f` string.(found it really convenient)
 2. Reminded me that inputs are in string data type and has to be converted into float/integers before doing any calculations.
 3. Reminded me how to round off with a specified decimal number `rounding_off = Round(2.666666,2)`=`2.66`
+<hr>
+
+<b>Day 3</b>:[`Direct Link`]<br>
+#### Exercise 01:[Rollercoaster- ride]
+#### Exercise 02:[BMI calculator2.0]
+#### Exercise 03:[Leap year]
+#### Exercise 04:[Pizza Order]
+#### Project 03:[Tresure Island]: Created a storytelling like treasure island adventure where each steps you take lead to different outcomes.
+1. Applied ASCII Art (figures made by numbers and symbols)via: https://ascii.co.uk/art
+2. Learned if/elif/else statements & nested if/elif/else & multiple ifs.
+3. Reminded me that indentaion is important in python.
+<hr>
+<b>Day 4</b>:[`Direct Link`]<br>
+#### Exercise 01:[Random NUmber]
+#### Exercise 02:[Heads & Tails]
+#### Exercise 03:[Banker Roulette]
+#### Exercise 04:[Treasure map]
+#### Project 04:[Rock, paper,scissors]:Created a simple rock-paper-scissors game where the computer's move is randomly generated using the random.choice after putting all moves into a list and selecting randomly.
+1.Overall ,learned about lists and how flexible it is whether it is to extend the list, replacing the items,choose a specific item with index starting from 0 and -1, extending the list with another list from input and more.
+2.Learned that nested list and list_name[1][1] means choosing the second nested list in the general list and then choosing the second item from the selected list.
+3.Revised if/elif/else statements and nested ifs.
+4.Learned about the python random module and differentiating between `random.randint(starting index, ending index)`/`random.float()`/`random.choice(list_name)`
+5.Aware of index error and in most situation the index has to -1 since the computer starts counting from 0.
+<hr>
 
