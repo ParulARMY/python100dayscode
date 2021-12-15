@@ -27,7 +27,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 3. Learned that '\n' brings the cursor/content to next line in the same print function.
 <hr>
 
-<b>Day 2</b>:[`Direct Link`]<br>
+<b>Day 2</b>:[`Direct Link`](https://github.com/ParulARMY/python100dayscode/tree/main/Day-2)<br>
 #### Exercise 01:[SubScript]
 #### Exercise 02:[BMI calculator]
 #### Exercise 03:[f-string]
