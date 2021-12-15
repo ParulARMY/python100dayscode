@@ -37,7 +37,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 3. Reminded me how to round off with a specified decimal number `rounding_off = Round(2.666666,2)`=`2.66`
 <hr>
 
-<b>Day 3</b>:[`Direct Link`]<br>
+<b>Day 3</b>:[`Direct Link`](https://github.com/ParulARMY/python100dayscode/tree/main/Day-3)<br>
 #### Exercise 01:[Rollercoaster- ride]
 #### Exercise 02:[BMI calculator2.0]
 #### Exercise 03:[Leap year]
