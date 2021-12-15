@@ -48,7 +48,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 3. Reminded me that indentaion is important in python.
 <hr>
 
-<b>Day 4</b>:[`Direct Link`]<br>
+<b>Day 4</b>:[`Direct Link`](https://github.com/ParulARMY/python100dayscode/tree/main/Day-4)<br>
 #### Exercise 01:[Random Number]
 #### Exercise 02:[Heads & Tails]
 #### Exercise 03:[Banker Roulette]
