@@ -65,6 +65,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 
 5.Aware of index error and in most situation the index has to -1 since the computer starts counting from 0.
 <hr>
+
 <b>Day-5</b>:[`Direct link`]<br>
 #### Exercise 01:[Average student height]<br>
 #### Exercise 02:[highest score]<br>
