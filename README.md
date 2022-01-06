@@ -70,7 +70,7 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 #### Exercise 02:[highest score]<br>
 #### Exercise 03:[Adding even number]<br>
 #### Exercise 04:[Fizzbuzz]<br>
-#### project 05:[Password generator]: Created a password generator that takes the user input for number of letters/symbols/numbers wanted in the password then generated two types of password, first is following the sequence where it goes from letters to numbers and the second harder password is to shuffle the sequence of the password so that there is no specific pattern to enssure maximum security.<br>
+#### project 05:[Password generator]: Created a password generator that takes the user input for number of letters/symbols/numbers wanted in the password then generated two types of password, first is following the sequence where it goes from letters to numbers and the second harder password is to shuffle the sequence of the password so that there is no specific pattern to enssure maximum security. <br>
 1.Learned the fundaments of loops and for loop with a rage `for x in range(start,end,step/gap)`
 2.Learned that I can shuffle strings with the random.shuffle but i can shuffle a list!
 3.Learned how to convert a list into a string(line 46-49)
