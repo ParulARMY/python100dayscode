@@ -66,10 +66,10 @@ Welcome to the <b> 100 Days of code - The Complete Python Pro Bootcamp</b>, the 
 5.Aware of index error and in most situation the index has to -1 since the computer starts counting from 0.
 <hr>
 <b>Day-5</b>:[`Direct link`]<br>
-#### Exercise 01:[Average student height]
-#### Exercise 02:[highest score]
-#### Exercise 03:[Adding even number]
-#### Exercise 04:[Fizzbuzz]
+#### Exercise 01:[Average student height]<br>
+#### Exercise 02:[highest score]<br>
+#### Exercise 03:[Adding even number]<br>
+#### Exercise 04:[Fizzbuzz]<br>
 #### project 05:[Password generator]: Created a password generator that takes the user input for number of letters/symbols/numbers wanted in the password then generated two types of password, first is following the sequence where it goes from letters to numbers and the second harder password is to shuffle the sequence of the password so that there is no specific pattern to enssure maximum security.<br>
 1.Learned the fundaments of loops and for loop with a rage `for x in range(start,end,step/gap)`
 2.Learned that I can shuffle strings with the random.shuffle but i can shuffle a list!
